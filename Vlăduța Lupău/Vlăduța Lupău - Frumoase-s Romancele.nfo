@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<musicvideo>
+    <title>
+        Frumoase-s Româncele
+        <artist>Vlăduța Lupău</artist>
+        <thumb aspect="thumb" preview="https://i.scdn.co/image/ab67616d0000b273674ef11999b0b6e1b86f8b35/preview"></thumb>
+        <top250>0</top250>
+        <track>1</track>
+    </title>
+    <album>Frumoase-s Româncele</album>
+    <thumb>https://i.scdn.co/image/ab67616d0000b273674ef11999b0b6e1b86f8b35</thumb>
+    <thumb aspect="thumb" preview="https://i.scdn.co/image/ab67616d0000b273674ef11999b0b6e1b86f8b35/preview">https://i.scdn.co/image/ab67616d0000b273674ef11999b0b6e1b86f8b35</thumb>
+    <fanart>
+        <poster>https://upload.wikimedia.org/wikipedia/commons/d/dc/Vladuta_lupau.jpg</poster>
+        <thumb aspect="landscape" preview="https://i.ytimg.com/vi/ecBG5hQeIT4/maxresdefault.jpg/preview">https://i.ytimg.com/vi/ecBG5hQeIT4/maxresdefault.jpg</thumb>
+        <thumb aspect="landscape" preview="https://www.theaudiodb.com/images/media/artist/fanart/surxml1641154283.jpg/preview">https://www.theaudiodb.com/images/media/artist/fanart/surxml1641154283.jpg</thumb>
+        <thumb aspect="landscape" preview="https://www.theaudiodb.com/images/media/artist/fanart/lyen4s1641154263.jpg/preview">https://www.theaudiodb.com/images/media/artist/fanart/lyen4s1641154263.jpg</thumb>
+        <thumb aspect="poster" preview="https://upload.wikimedia.org/wikipedia/commons/d/dc/Vladuta_lupau.jpg/preview">https://upload.wikimedia.org/wikipedia/commons/d/dc/Vladuta_lupau.jpg</thumb>
+        <thumb aspect="clearlogo" preview=""></thumb>
+        <thumb aspect="clearart" preview=""></thumb>
+        <thumb aspect="banner" preview=""></thumb>
+    </fanart>
+    <outline></outline>
+    <plot></plot>
+    <tagline></tagline>
+    <runtime>2</runtime>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id></id>
+    <genre>Chalga</genre>
+    <year>2022</year>
+    <status></status>
+	<director>Director 1</director>
+	<director>Director 2</director>
+	<director>Director 3</director>
+	<director>Director 4</director>
+    <code></code>
+    <aired></aired>
+    <trailer></trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <codec>hevc</codec>
+                <aspect>1.792230</aspect>
+                <width>3840</width>
+                <height>2160</height>
+                <durationinseconds>263</durationinseconds>
+                <stereomode></stereomode>
+            </video>
+            <audio>
+                <codec>ac3</codec>
+                <language>bul</language>
+                <channels>2</channels>
+            </audio>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Vlăduța Lupău</name>
+        <role>solist</role>
+        <thumb>https://upload.wikimedia.org/wikipedia/commons/d/dc/Vladuta_lupau.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2022-06-07 09:46:06</dateadded>
+</musicvideo>
